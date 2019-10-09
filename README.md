@@ -2,8 +2,9 @@
 
 Sets the current wallpaper to the login background.
 
-**WARNING:**
-This program does NOT check if the background image meets login screen requirements.  Use with care.
+**WARNING:** For MacOS Mojave ONLY at this time.
+
+**WARNING:** This program does NOT check if the background image meets login screen requirements.  Use with care.
 
 **Usage:**
 ```
